@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Flickr</string>
+    <string name="flickr_api_key">463a8e14aad767ac26c3cdfa38b106a0</string>
+    <string name="network_error">Error occurred.</string>
+    <string name="url_error">URL error.</string>
+    <string name="io_error">Unable to connect, please check your connection and refresh.</string>
+    <string name="refresh">Refresh</string>
+    <string name="title_activity_photo_comment">Image comments</string>
+    <string name="action_share">Share</string>
+    <string name="sharetext">- See high resolution -</string>
+
+</resources>
